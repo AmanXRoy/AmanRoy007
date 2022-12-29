@@ -16,6 +16,9 @@
 
 ### Web Developer
 <a href="https://www.testdome.com/certificates/d75626574ddc4bb18ff3504b753f2a62" class="testdome-certificate-stamp gold">
+          <span class="testdome-certificate-test-name">Web Developer</span>
+          <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
+          </a>
 
 ### Javascript
 <a href="https://www.testdome.com/certificates/55e5a7e201944650a6168c068755f387" class="testdome-certificate-stamp gold">
