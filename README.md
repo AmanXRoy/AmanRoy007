@@ -13,12 +13,17 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Cetrification
-<a href="https://www.testdome.com/certificates/55e5a7e201944650a6168c068755f387" class="testdome-certificate-stamp silver">
+
+### Web Developer
+<a href="https://www.testdome.com/certificates/d75626574ddc4bb18ff3504b753f2a62" class="testdome-certificate-stamp gold">
+
+### Javascript
+<a href="https://www.testdome.com/certificates/55e5a7e201944650a6168c068755f387" class="testdome-certificate-stamp gold">
           <span class="testdome-certificate-test-name">JavaScript</span>
           <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
 </a>
 
 ### Angular
-<a href="https://www.testdome.com/certificates/9372ecb1f9af4d98be712c63a5c245c0" class="testdome-certificate-stamp silver">        
+<a href="https://www.testdome.com/certificates/9372ecb1f9af4d98be712c63a5c245c0" class="testdome-certificate-stamp gold">        
  <span class="testdome-certificate-test-name">Angular</span>          
  <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span></a>
