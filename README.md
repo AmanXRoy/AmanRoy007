@@ -18,3 +18,7 @@
           <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
 </a>
 
+### Angular
+<a href="https://www.testdome.com/certificates/9372ecb1f9af4d98be712c63a5c245c0" class="testdome-certificate-stamp silver">        
+ <span class="testdome-certificate-test-name">Angular</span>          
+ <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span></a>
