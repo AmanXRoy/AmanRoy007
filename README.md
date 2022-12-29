@@ -14,7 +14,6 @@
 
 ### Cetrification
 <a href="https://www.testdome.com/certificates/55e5a7e201944650a6168c068755f387" class="testdome-certificate-stamp silver">
-          <span class="testdome-certificate-name">Aman Roy</span>
           <span class="testdome-certificate-test-name">JavaScript</span>
           <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
 </a>
