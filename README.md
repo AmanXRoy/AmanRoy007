@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm a Frontend Developer with a passion for new tech stacks.<br>🌱 I’m currently learning React.<br>💬 Shoot me an <a href="mailto:roya5846@gmail.com">Email</a> or add me on <a href="#">LinkedIn</a><br>🖥️ check out my portfolio :- [Portfolio](https://amanroy007.github.io/portfolio/)
+⚡ I'm a Frontend Developer with a passion for new tech stacks.<br>🌱 I’m currently learning Angular.<br>💬 Shoot me an <a href="mailto:roya5846@gmail.com">Email</a> or add me on <a href="#">LinkedIn</a><br>🖥️ check out my portfolio :- [Portfolio](https://amanroy007.github.io/portfolio/)
 
 [![](https://visitcount.itsvg.in/api?id=ipiyushchaudhary&icon=0&color=3)](https://visitcount.itsvg.in)
 
